@@ -5,7 +5,7 @@ Hi there, I am Viktory👋
 
 ### :woman_technologist: About Me :
 - ❤ I am launching career as a QA Engineer in Test
-- 📚 Also I'm currently learning a QA Automation now
+- 📚 Also I'm currently learning QA Automation now
 - 🌞 In my free time I reading about new technologies and walking or traveling with my families 
 
 ### :hammer_and_wrench: Languages and Tools :
