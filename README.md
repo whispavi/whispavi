@@ -1,6 +1,6 @@
 
 <h1>
-Hi there, I am Viktory👋  
+Hi there, I am Victoria👋  
 </h1>
 
 ### :woman_technologist: About Me :
