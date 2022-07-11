@@ -4,7 +4,7 @@ Hi there, I am Victoria👋
 </h1>
 
 ### :woman_technologist: About Me :
-- ❤ I am launching career as a QA Engineer in Test
+- ❤ I'm a software test engineer with 1+ years experience in manual testing
 - 📚 Also I'm currently learning QA Automation now
 - 🌞 In my free time I reading about new technologies and walking or traveling with my families 
 
